@@ -1,6 +1,6 @@
 #!/bin/sh
 
-
+sudo -s
 
 ####### remove firewall-cmd 
 
