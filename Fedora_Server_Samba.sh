@@ -1,5 +1,13 @@
 #!/bin/sh
 
+    echo
+    echo "+----------------------------------------------------------------------+"
+    echo "| Script for create Server Samba, based of Fedora 36 . Is realy simply |" 
+    echo "|    based  Fedora-Xfce-Live-x86_64-36-1.5.iso                         |"
+    echo "|              Author :  Lucandroid70                                  |"
+    echo "+----------------------------------------------------------------------+"
+    echo
+
 sudo -s
 
 ####### remove firewall-cmd 
